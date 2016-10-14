@@ -1,3 +1,3 @@
 # omttemprepo
 
-This is my simple Java repo (just for testing)
+This is my simple JavaScript repo (just for testing)
