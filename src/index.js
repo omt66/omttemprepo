@@ -1,3 +1,3 @@
 function sayHi() {
-    console.log("Hello there...");
+    console.log("Hello there... How are you?");
 }
